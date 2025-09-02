@@ -1,7 +1,5 @@
 # PLift – Plataforma móvil inteligente para coaches y atletas
 
-![PLift logo](images/Logo.png)
-
 ## Descripción
 PLift es una app móvil con Inteligencia Artificial que genera planes de powerlifting personalizados y los ajusta automáticamente según rendimiento, fatiga y preparación para competencias. Optimiza la gestión de múltiples atletas y facilita el seguimiento para coaches y atletas.
 
@@ -23,3 +21,4 @@ Desarrollar una app móvil que genere y ajuste ciclos de entrenamiento automáti
 - Ajuste automático de cargas y volumen.  
 - Dashboard de progreso y panel de control para coaches.
 
+![PLift logo](images/Logo.png)
